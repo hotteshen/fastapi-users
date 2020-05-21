@@ -109,3 +109,6 @@ ENV/
 
 # OS files
 .DS_Store
+
+# venv for not using Pipenv
+venv
